@@ -1,9 +1,9 @@
 package com.atguigu.test;
 
-public class GitTest {
+
+public class TestOne {
 	
 	public static void main(String[] args) {
-		System.out.println("¹þ¹þ·¢¸£!");
-		
+		System.err.println("hahhadajielllll");
 	}
 }
